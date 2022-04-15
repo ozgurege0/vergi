@@ -1,0 +1,3 @@
+Kurulum için admin>ayarlar>baglan.php'ye veritabanı bilgilerinizi girip phpmyadmin'den sql dosyasını ilgili veritabanına aktarıp son olarak url kısmını doldurun.
+Admin Kullanıcı Adı: admin
+Şifre: admin123
